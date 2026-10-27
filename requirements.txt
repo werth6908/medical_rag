@@ -1,0 +1,7 @@
+python-dotenv
+openai
+langchain-core
+langchain-huggingface
+langchain-community
+faiss-cpu
+sentence-transformers
